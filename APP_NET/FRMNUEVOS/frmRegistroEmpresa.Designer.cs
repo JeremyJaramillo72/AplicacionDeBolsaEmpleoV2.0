@@ -245,7 +245,7 @@
             this.btn_regCandi.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_regCandi.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
             this.btn_regCandi.Location = new System.Drawing.Point(367, 590);
-            this.btn_regCandi.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btn_regCandi.Margin = new System.Windows.Forms.Padding(4);
             this.btn_regCandi.Name = "btn_regCandi";
             this.btn_regCandi.Size = new System.Drawing.Size(240, 55);
             this.btn_regCandi.TabIndex = 49;
@@ -263,7 +263,7 @@
             this.Btn_Inicia.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Btn_Inicia.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
             this.Btn_Inicia.Location = new System.Drawing.Point(308, 704);
-            this.Btn_Inicia.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Btn_Inicia.Margin = new System.Windows.Forms.Padding(4);
             this.Btn_Inicia.Name = "Btn_Inicia";
             this.Btn_Inicia.Size = new System.Drawing.Size(240, 55);
             this.Btn_Inicia.TabIndex = 50;
@@ -280,8 +280,8 @@
             this.btn_registrarEmpresa.FillColor = System.Drawing.SystemColors.HotTrack;
             this.btn_registrarEmpresa.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_registrarEmpresa.ForeColor = System.Drawing.Color.White;
-            this.btn_registrarEmpresa.Location = new System.Drawing.Point(299, 527);
-            this.btn_registrarEmpresa.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btn_registrarEmpresa.Location = new System.Drawing.Point(298, 495);
+            this.btn_registrarEmpresa.Margin = new System.Windows.Forms.Padding(4);
             this.btn_registrarEmpresa.Name = "btn_registrarEmpresa";
             this.btn_registrarEmpresa.Size = new System.Drawing.Size(240, 55);
             this.btn_registrarEmpresa.TabIndex = 51;
@@ -309,7 +309,7 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmRegistroEmpresa";
             this.Text = "frmRegistroEmpresa";
             this.ResumeLayout(false);

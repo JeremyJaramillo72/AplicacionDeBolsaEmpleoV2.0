@@ -313,7 +313,7 @@
             this.btn_registrarCandi.FillColor = System.Drawing.SystemColors.HotTrack;
             this.btn_registrarCandi.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_registrarCandi.ForeColor = System.Drawing.Color.White;
-            this.btn_registrarCandi.Location = new System.Drawing.Point(272, 438);
+            this.btn_registrarCandi.Location = new System.Drawing.Point(222, 438);
             this.btn_registrarCandi.Margin = new System.Windows.Forms.Padding(4);
             this.btn_registrarCandi.Name = "btn_registrarCandi";
             this.btn_registrarCandi.Size = new System.Drawing.Size(240, 55);

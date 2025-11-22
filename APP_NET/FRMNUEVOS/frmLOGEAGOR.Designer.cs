@@ -132,8 +132,8 @@
             this.guna2Button1.FillColor = System.Drawing.SystemColors.HotTrack;
             this.guna2Button1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2Button1.ForeColor = System.Drawing.Color.White;
-            this.guna2Button1.Location = new System.Drawing.Point(229, 337);
-            this.guna2Button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.guna2Button1.Location = new System.Drawing.Point(189, 334);
+            this.guna2Button1.Margin = new System.Windows.Forms.Padding(4);
             this.guna2Button1.Name = "guna2Button1";
             this.guna2Button1.Size = new System.Drawing.Size(240, 55);
             this.guna2Button1.TabIndex = 15;
@@ -151,7 +151,7 @@
             this.btn_registraAhora.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_registraAhora.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
             this.btn_registraAhora.Location = new System.Drawing.Point(352, 418);
-            this.btn_registraAhora.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btn_registraAhora.Margin = new System.Windows.Forms.Padding(4);
             this.btn_registraAhora.Name = "btn_registraAhora";
             this.btn_registraAhora.Size = new System.Drawing.Size(240, 55);
             this.btn_registraAhora.TabIndex = 16;
@@ -171,7 +171,7 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmLOGEAGOR";
             this.Text = "frmLOGEAGOR";
             this.ResumeLayout(false);
